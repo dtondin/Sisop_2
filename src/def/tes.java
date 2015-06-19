@@ -2,9 +2,9 @@ package def;
 
 public class tes {
 
-	lkjdlkfds
-	fsdfjosf
-	afj
-	asjfd
+	//lkjdlkfds
+    //fsdfjosf
+	//afj
+	//asjfd
 	
 }
